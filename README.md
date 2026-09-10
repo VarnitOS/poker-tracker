@@ -1,4 +1,4 @@
-# Poker Tracker
+# PERSONAL Poker Tracker
 
 Two tools in one Next.js app:
 
